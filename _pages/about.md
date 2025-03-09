@@ -16,7 +16,7 @@ My research interests lie in Algebraic Combinatorics and Representation Theory. 
 Publications
 ======
 1. A multiparametric Murnaghan-Nakayama rule for Macdonald polynomials, J. Combin. Theory Ser. A. 207 (2024),
-Paper No. 105920. (with N. Jing) [Paper]()
+Paper No. 105920. (with N. Jing)
 2. A spin analog of the plethystic Murnaghan-Nakayama rule. Ann. Comb. 28 (2024), no. 2, 655–679. (with Y. Cao
 and N. Jing)
 3. Murnaghan-Nakayama rule and spin bitrace for the Hecke-Clifford algebra. Int. Math. Res. Not. IMRN (2023),
