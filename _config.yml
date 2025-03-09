@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home"
+title                    : "Ning Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Ning Liu"
 description              : #&description "personal description"
@@ -76,13 +76,13 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+#publication_category:
+ # books:
+  #  title: 'Books'
+  #manuscripts:
+   # title: 'Journal Articles'    
+  #conferences:
+   # title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -212,7 +212,7 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
-collections:
+#collections:
   #teaching:
     #output: true
     #permalink: /:collection/:path/
@@ -230,16 +230,16 @@ collections:
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+   #   path: ""
+    #  type: posts
+    #values:
+     # layout: single
+      #author_profile: true
+      #read_time: true
+      #comments: true
+      #share: true
+      #related: true
   # _pages
   - scope:
       path: ""
