@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ning Liu / PostDoc"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ning Liu"
 description              : #&description "personal description"
@@ -216,15 +216,15 @@ collections:
   #teaching:
     #output: true
     #permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #publications:
+   # output: true
+    #permalink: /:collection/:path/
+  #portfolio:
+   # output: true
+    #permalink: /:collection/:path/
+  #talks:
+   # output: true
+    #permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
