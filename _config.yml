@@ -76,7 +76,7 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-#publication_category:
+publication_category:
   books:
     title: 'Books'
   manuscripts:
@@ -222,7 +222,12 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
+
+# These settings control how pages and collections are included in the site
 defaults:
   # _posts
   - scope:
@@ -277,12 +282,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-    
-  
 
-
-# These settings control how pages and collections are included in the site
-#
 
 # Sass/SCSS
 sass:
