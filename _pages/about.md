@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PostDoc. at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I received my PhD degree from [School of Mathematics](https://www2.scut.edu.cn/math/) of [South China University of Technology](https://www.scut.edu.cn/new/) under the supervision of Prof. [Naihuan Jing](https://math.sciences.ncsu.edu/people/jing/) in June 2024. I completed my Bachelor’s degree in [School of Mathematics and Statistics](https://math.nenu.edu.cn/) of [Northeast Normal University](https://www.nenu.edu.cn/) in June 2018.
+I am currently a Postdoctoral Researcher at the [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/),  where I work in collaboration with Prof. [Xiaobo Liu](http://faculty.bicmr.pku.edu.cn/~xbliu/).
+
+I obtained my Ph.D. degree in Mathematics from the [School of Mathematics](https://www2.scut.edu.cn/math/) at [South China University of Technology](https://www.scut.edu.cn/new/) in June 2024, where I was advised by Prof. [Naihuan Jing](https://math.sciences.ncsu.edu/people/jing/). During my PhD studies, I conducted research as a visiting scholar at the [Fakultät für Mathematik](https://mathematik.univie.ac.at/) of the [Universität Wien](https://www.univie.ac.at/), under the joint supervision of Prof. [Christian Krattenthaler](https://www.mat.univie.ac.at/~kratt/) 
+
+Prior to my graduate studies, I completed my Bachelor’s degree in Mathematics at the [School of Mathematics and Statistics](https://math.nenu.edu.cn/), [Northeast Normal University](https://www.nenu.edu.cn/), graduating in June 2018.
+
 
 Research Interests
 ======
