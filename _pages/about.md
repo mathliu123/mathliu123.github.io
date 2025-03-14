@@ -22,19 +22,19 @@ Publications
 ======
 1. A multiparametric Murnaghan-Nakayama rule for Macdonald polynomials, J. Combin. Theory Ser. A. 207 (2024),
 Paper No. 105920. (with N. Jing)
-2. A spin analog of the plethystic Murnaghan-Nakayama rule. Ann. Comb. 28 (2024), no. 2, 655–679. (with Y. Cao
+1. A spin analog of the plethystic Murnaghan-Nakayama rule. Ann. Comb. 28 (2024), no. 2, 655–679. (with Y. Cao
 and N. Jing)
-3. Murnaghan-Nakayama rule and spin bitrace for the Hecke-Clifford algebra. Int. Math. Res. Not. IMRN (2023),
+1. Murnaghan-Nakayama rule and spin bitrace for the Hecke-Clifford algebra. Int. Math. Res. Not. IMRN (2023),
 no. 19, 17060–17099. (with N. Jing)
-4. Spin Kostka polynomials and vertex operators. Pacific J. Math. 325 (2023), no. 1, 127–146. (with N. Jing)
-5. Q-Kostka polynomials and spin Green polynomials. Monatsh. Math. 201 (2023), no. 1, 109–125. (with A. Jiang
+1. Spin Kostka polynomials and vertex operators. Pacific J. Math. 325 (2023), no. 1, 127–146. (with N. Jing)
+1. Q-Kostka polynomials and spin Green polynomials. Monatsh. Math. 201 (2023), no. 1, 109–125. (with A. Jiang
 and N. Jing)
-6. On irreducible characters of the Iwahori-Hecke algebra in type A. J. Algebra 598 (2022), 24–47. (with N. Jing)
-7. The Green polynomials via vertex operators. J. Pure Appl. Algebra 226 (2022), 107032. (with N. Jing)
+1. On irreducible characters of the Iwahori-Hecke algebra in type A. J. Algebra 598 (2022), 24–47. (with N. Jing)
+1. The Green polynomials via vertex operators. J. Pure Appl. Algebra 226 (2022), 107032. (with N. Jing)
 
 Preprints
 ======
-1. On a Pieri–like rule for the Petrie symmetric functions. preprint, arXiv:2406.00581 (with E. Y. Jin and N. Jing)
-2. Irreducible characters and bitrace for the q-rook monoid. preprint, arXiv:2312.13681 (with N. Jing and Y. Wu)
-3. Plethystic Murnaghan-Nakayama rule via vertex operators. preprint, arXiv:2212.08412 (with Y. Cao and N. Jing)
+1. On a Pieri–like rule for the Petrie symmetric functions. arXiv:2406.00581 (with E. Y. Jin and N. Jing)
+1. Irreducible characters and bitrace for the q-rook monoid. arXiv:2312.13681 (with N. Jing and Y. Wu)
+1. Plethystic Murnaghan-Nakayama rule via vertex operators. arXiv:2212.08412 (with Y. Cao and N. Jing)
 
