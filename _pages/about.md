@@ -21,22 +21,21 @@ My research interests lie in Algebraic Combinatorics and Representation Theory. 
 Publications
 ======
 1. A multiparametric Murnaghan-Nakayama rule for Macdonald polynomials, J. Combin. Theory Ser. A. 207 (2024),
-Paper No. 105920. (with N. Jing)
+Paper No. 105920. (with N. Jing) [arXiv:2310.15730](https://arxiv.org/abs/2310.15730)
 1. A spin analog of the plethystic Murnaghan-Nakayama rule. Ann. Comb. 28 (2024), no. 2, 655–679. (with Y. Cao
-and N. Jing)
+and N. Jing) [arXiv:2312.13675](https://arxiv.org/abs/2312.13675)
 1. Murnaghan-Nakayama rule and spin bitrace for the Hecke-Clifford algebra. Int. Math. Res. Not. IMRN (2023),
-no. 19, 17060–17099. (with N. Jing)
-1. Spin Kostka polynomials and vertex operators. Pacific J. Math. 325 (2023), no. 1, 127–146. (with N. Jing)
+no. 19, 17060–17099. (with N. Jing) [arXiv:2303.14459](https://arxiv.org/abs/2303.14459)
+1. Spin Kostka polynomials and vertex operators. Pacific J. Math. 325 (2023), no. 1, 127–146. (with N. Jing) [arXiv:2303.10664](https://arxiv.org/abs/2303.10664)
 1. Q-Kostka polynomials and spin Green polynomials. Monatsh. Math. 201 (2023), no. 1, 109–125. (with A. Jiang
-and N. Jing)
-1. On irreducible characters of the Iwahori-Hecke algebra in type A. J. Algebra 598 (2022), 24–47. (with N. Jing)
-1. The Green polynomials via vertex operators. J. Pure Appl. Algebra 226 (2022), 107032. (with N. Jing)
+and N. Jing) [arXiv:2304.07439](https://arxiv.org/abs/2304.07439)
+1. On irreducible characters of the Iwahori-Hecke algebra in type A. J. Algebra 598 (2022), 24–47. (with N. Jing) [arXiv:2104.06067](https://arxiv.org/abs/2104.06067)
+1. The Green polynomials via vertex operators. J. Pure Appl. Algebra 226 (2022), 107032. (with N. Jing) [arXiv:2104.04411](https://arxiv.org/abs/2104.04411)
 
 Preprints
 ======
-1. On a Pieri–like rule for the Petrie symmetric functions. arXiv:2406.00581 (with E. Y. Jin and N. Jing)
-1. Irreducible characters and bitrace for the q-rook monoid. arXiv:2312.13681 (with N. Jing and Y. Wu)
-1. Plethystic Murnaghan-Nakayama rule via vertex operators. arXiv:2212.08412 (with Y. Cao and N. Jing)
+1. On a Pieri–like rule for the Petrie symmetric functions. [arXiv:2406.00581](https://arxiv.org/abs/2406.00581) (with E. Y. Jin and N. Jing)
+1. Irreducible characters and bitrace for the q-rook monoid. [arXiv:2312.13681](https://arxiv.org/abs/2312.13681) (with N. Jing and Y. Wu)
+1. Plethystic Murnaghan-Nakayama rule via vertex operators. [arXiv:2212.08412](https://arxiv.org/abs/2212.08412) (with Y. Cao and N. Jing)
 
 
-<a href=' '  title='Visit tracker'>< img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=n&d=J6_1YGeLg-J7t5ToGOrm1lj_HeE4j7CR-SSuDJOBqso&co=2d78ad&ct=ffffff'/></a >
