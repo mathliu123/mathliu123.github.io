@@ -38,3 +38,5 @@ Preprints
 1. Irreducible characters and bitrace for the q-rook monoid. arXiv:2312.13681 (with N. Jing and Y. Wu)
 1. Plethystic Murnaghan-Nakayama rule via vertex operators. arXiv:2212.08412 (with Y. Cao and N. Jing)
 
+
+< img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=n&d=J6_1YGeLg-J7t5ToGOrm1lj_HeE4j7CR-SSuDJOBqso&co=2d78ad&ct=ffffff'/>
