@@ -30,7 +30,7 @@ no. 19, 17060–17099. (with N. Jing) [arXiv:2303.14459](https://arxiv.org/abs/2
 1. Q-Kostka polynomials and spin Green polynomials. Monatsh. Math. 201 (2023), no. 1, 109–125. (with A. Jiang
 and N. Jing) [arXiv:2304.07439](https://arxiv.org/abs/2304.07439)
 1. On irreducible characters of the Iwahori-Hecke algebra in type A. J. Algebra 598 (2022), 24–47. (with N. Jing) [arXiv:2104.06067](https://arxiv.org/abs/2104.06067)
-1. The Green polynomials via vertex operators. J. Pure Appl. Algebra 226 (2022), 107032. (with N. Jing) [arXiv:2104.04411](https://arxiv.org/abs/2104.04411)
+1. The Green polynomials via vertex operators. J. Pure Appl. Algebra 226 (2022), 107032. (with N. Jing) [arXiv:2104.04411](https://arxiv.org/abs/2104.04411) [Corrigendum](https://www.sciencedirect.com/science/article/pii/S0022404924000677)
 
 Preprints
 ======
