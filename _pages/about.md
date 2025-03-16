@@ -37,5 +37,5 @@ Preprints
 1. On a Pieri–like rule for the Petrie symmetric functions. (with E. Y. Jin and N. Jing) [arXiv:2406.00581](https://arxiv.org/abs/2406.00581) 
 1. Irreducible characters and bitrace for the q-rook monoid. (with N. Jing and Y. Wu) [arXiv:2312.13681](https://arxiv.org/abs/2312.13681) 
 1. Plethystic Murnaghan-Nakayama rule via vertex operators. (with Y. Cao and N. Jing) [arXiv:2212.08412](https://arxiv.org/abs/2212.08412) 
-
-
+1. Dual Murnaghan-Nakayama rule for Hecke algebras in type A. (with N. Jing and Y. Wu) In preparation.
+1. Murnaghan-Nakayama rule for the cyclotomic Hecke algebra and applications. (with N. Jing) In preparation.
