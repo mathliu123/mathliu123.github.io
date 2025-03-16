@@ -34,8 +34,8 @@ and N. Jing) [arXiv:2304.07439](https://arxiv.org/abs/2304.07439)
 
 Preprints
 ======
-1. On a Pieri–like rule for the Petrie symmetric functions. [arXiv:2406.00581](https://arxiv.org/abs/2406.00581) (with E. Y. Jin and N. Jing)
-1. Irreducible characters and bitrace for the q-rook monoid. [arXiv:2312.13681](https://arxiv.org/abs/2312.13681) (with N. Jing and Y. Wu)
-1. Plethystic Murnaghan-Nakayama rule via vertex operators. [arXiv:2212.08412](https://arxiv.org/abs/2212.08412) (with Y. Cao and N. Jing)
+1. On a Pieri–like rule for the Petrie symmetric functions. (with E. Y. Jin and N. Jing) [arXiv:2406.00581](https://arxiv.org/abs/2406.00581) 
+1. Irreducible characters and bitrace for the q-rook monoid. (with N. Jing and Y. Wu) [arXiv:2312.13681](https://arxiv.org/abs/2312.13681) 
+1. Plethystic Murnaghan-Nakayama rule via vertex operators. (with Y. Cao and N. Jing) [arXiv:2212.08412](https://arxiv.org/abs/2212.08412) 
 
 
