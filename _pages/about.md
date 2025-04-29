@@ -38,4 +38,4 @@ Preprints
 1. Irreducible characters and bitrace for the q-rook monoid. (with N. Jing and Y. Wu) [arXiv:2312.13681](https://arxiv.org/abs/2312.13681) 
 1. Plethystic Murnaghan-Nakayama rule via vertex operators. (with Y. Cao and N. Jing) [arXiv:2212.08412](https://arxiv.org/abs/2212.08412) 
 1. Dual Murnaghan-Nakayama rule for Hecke algebras in type A. (with N. Jing and Y. Wu) [arXiv:2503.12299](https://arxiv.org/abs/2503.12299)
-1. Murnaghan-Nakayama rule for the cyclotomic Hecke algebra and applications. (with N. Jing) In preparation.
+1. Murnaghan-Nakayama rule for the cyclotomic Hecke algebra and applications. (with N. Jing) [arXiv:2504.18825](https://arxiv.org/abs/2504.18825)
