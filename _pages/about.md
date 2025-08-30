@@ -20,6 +20,7 @@ My research interests lie in Algebraic Combinatorics and Representation Theory. 
 
 Publications
 ======
+1. Irreducible characters and bitrace for the q-rook monoid, Commun. Algebra, to appear. (with N. Jing and Y. Wu) [arXiv:2312.13681](https://arxiv.org/abs/2312.13681) 
 1. A multiparametric Murnaghan-Nakayama rule for Macdonald polynomials, J. Combin. Theory Ser. A. 207 (2024),
 Paper No. 105920. (with N. Jing) [arXiv:2310.15730](https://arxiv.org/abs/2310.15730)
 1. A spin analog of the plethystic Murnaghan-Nakayama rule. Ann. Comb. 28 (2024), no. 2, 655–679. (with Y. Cao
@@ -35,7 +36,6 @@ and N. Jing) [arXiv:2304.07439](https://arxiv.org/abs/2304.07439)
 Preprints
 ======
 1. On a Pieri–like rule for the Petrie symmetric functions. (with E. Y. Jin and N. Jing) [arXiv:2406.00581](https://arxiv.org/abs/2406.00581) 
-1. Irreducible characters and bitrace for the q-rook monoid. (with N. Jing and Y. Wu) [arXiv:2312.13681](https://arxiv.org/abs/2312.13681) 
 1. Plethystic Murnaghan-Nakayama rule via vertex operators. (with Y. Cao and N. Jing) [arXiv:2212.08412](https://arxiv.org/abs/2212.08412) 
 1. Dual Murnaghan-Nakayama rule for Hecke algebras in type A. (with N. Jing and Y. Wu) [arXiv:2503.12299](https://arxiv.org/abs/2503.12299)
 1. Murnaghan-Nakayama rule for the cyclotomic Hecke algebra and applications. (with N. Jing) [arXiv:2504.18825](https://arxiv.org/abs/2504.18825)
