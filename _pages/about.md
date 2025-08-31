@@ -20,7 +20,7 @@ My research interests lie in Algebraic Combinatorics and Representation Theory. 
 
 Publications
 ======
-1. Irreducible characters and bitrace for the q-rook monoid, Commun. Algebra (2025), to appear. (with N. Jing and Y. Wu) [arXiv:2312.13681](https://arxiv.org/abs/2312.13681) 
+1. Irreducible characters and bitrace for the q-rook monoid, Comm. Algebra (2025), to appear. (with N. Jing and Y. Wu) [arXiv:2312.13681](https://arxiv.org/abs/2312.13681) 
 1. A multiparametric Murnaghan-Nakayama rule for Macdonald polynomials, J. Combin. Theory Ser. A. 207 (2024),
 Paper No. 105920. (with N. Jing) [arXiv:2310.15730](https://arxiv.org/abs/2310.15730)
 1. A spin analog of the plethystic Murnaghan-Nakayama rule. Ann. Comb. 28 (2024), no. 2, 655–679. (with Y. Cao
